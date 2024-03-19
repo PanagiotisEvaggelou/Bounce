@@ -1,6 +1,6 @@
 # Bounce
 
-A platformer game made in C++ based on a custom graphycs library (SGG)
+A platformer game made in C++ based on a custom graphics library (SGG)
 
 **How to play**
 
