@@ -2,12 +2,12 @@
 
 A platformer game made in C++ based on a custom graphics library (SGG)
 
-**How to play**
+## How to Run
 
 1. Download or clone the repository
-2. Open the Stage4.exe file
+2. Run the Stage4.exe file
 
-**Screenshots**
+## Screenshots
 
 ![Image Description](Readme/Screenshot1.png)
 
