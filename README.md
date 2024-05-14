@@ -6,6 +6,7 @@ A platformer game made in C++ based on a custom graphics library (SGG)
 
 1. Download or clone the repository
 2. Run the Stage4.exe file
+3. Use A W S D keys to move and play
 
 ## Screenshots
 
