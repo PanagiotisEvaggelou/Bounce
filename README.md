@@ -10,8 +10,6 @@ A platformer game made in C++ based on a custom graphics library (SGG)
 
 ## Screenshots
 
-![example.gif](https://github.com/PanagiotisEvaggelou/Bounce/blob/main/img/example2.gif)
-
 ![Image Description](img/Screenshot1.png)
 
 ![Image Description](img/Screenshot2.png)
