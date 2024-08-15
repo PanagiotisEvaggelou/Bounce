@@ -14,3 +14,5 @@ A platformer game made in C++ based on a custom graphics library (SGG)
 
 ![Image Description](img/Screenshot2.png)
 
+![Image Description](img/Screenshot4.png)
+
